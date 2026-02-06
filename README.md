@@ -1,1 +1,0 @@
-# fullstack.2026
