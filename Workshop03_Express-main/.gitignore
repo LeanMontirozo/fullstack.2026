@@ -1,5 +1,3 @@
 Solution/
 node_modules/
-tuntiharjoitukset/example-2-task3.js
-tuntiharjoitukset/example-3-task4.js
-tuntiharjoitukset/example-4-task5.js
+.env/
