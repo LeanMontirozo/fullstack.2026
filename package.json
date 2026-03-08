@@ -1,17 +1,15 @@
 {
-  "name": "fullstack.2026",
+  "name": "workshop03_express-main",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "express": "^5.2.1",
-    "init": "^0.1.2"
-  },
-  "devDependencies": {},
-  "description": ""
+    "express": "^5.2.1"
+  }
 }
