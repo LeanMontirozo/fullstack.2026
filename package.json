@@ -8,8 +8,10 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
   "dependencies": {
+    "express": "^5.2.1",
     "init": "^0.1.2"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
