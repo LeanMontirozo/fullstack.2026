@@ -73,7 +73,8 @@ Once the server is running, you can test it:
 ### Routing Logic
 The server maps incoming requests to appropriate files:
 - Root path (`/`) serves `index.html`
-- `/about` serves `about.html`
+- `/about` se
+rves `about.html`
 - `/contact` serves `contact.html`
 - `/styles/*` serves CSS files from the styles directory
 - Unknown paths return a 404 error page
